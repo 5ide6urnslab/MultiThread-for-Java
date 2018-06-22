@@ -1,9 +1,6 @@
 # MultiThread for Java
 This repository is Technique sample that is Multi Thread for Java. This sample is made by Proce55ing, but you may use this technique by Eclipse for Java.  
 
-### Period Thread
-This application is a Fixed Cycle Thread.
-
 ## Installation
 (1) To use the above application, first you need to download and install (Proce55ing)
 https://processing.org/download/
@@ -14,6 +11,12 @@ https://github.com/5ide6urnslab/MultiThread-for-Java.git
 ## Running the Example Project
 An example project is provided in your Proce55ing folder.
 <br>
+
+##### Period Thread
+This example is a Fixed Cycle Thread.
+
+##### Period Threads
+This example is Fixed Cycle Threads.
 
 ## License
 ##### About this manual and image files.
