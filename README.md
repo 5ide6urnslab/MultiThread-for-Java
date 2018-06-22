@@ -12,7 +12,7 @@ https://github.com/5ide6urnslab/MultiThread-for-Java.git
 An example project is provided in your Proce55ing folder.
 <br>
 
-(1) Period Thread  : This example is a Fixed Cycle Thread.
+(1) Period Thread  : This example is a Fixed Cycle Thread. <br>
 (2) Period Threads : This example is Fixed Cycle Threads.
 
 ## License
