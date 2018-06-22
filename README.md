@@ -1,11 +1,5 @@
-# MCP4922
-This repository is the Arduino (UNO, Teensy etc) library and Arduino sketch for the MCP4922 D/A Converter.
-We are currently developing this library.  
-
-## Description
-##### MCP4922
-This MCP4922 is the Arduino library for the MCP4922 D/A Converter that runs on Arduino UNO and Teensy 3.5. 
-This library is controlled the LED and Laser Module by Digital Pin of Arduino.
+# MultiThread for Java
+This repository is Technique sample that is Multi Thread for Java. This sample is made by Proce55ing, but you may use this technique by Eclipse for Java.  
 
 ## Installation
 (1) To use the above library, first you need to download and install (Arduino 1.8.3)
@@ -31,8 +25,8 @@ http://ww1.microchip.com/downloads/en/DeviceDoc/22250A.pdf
 ##### About this manual and image files.
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />5ide6urns lab is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
-##### About this software. 
+##### About this software.
 Released under the MIT license. http://opensource.org/licenses/mit-license.php
 
 ## Credit
-Electronics:   [Show Kawabata](http://www.dum6sen5e.com) (5ide6urns lab)  
+Software:   [Show Kawabata](http://www.dum6sen5e.com) (5ide6urns lab)  
