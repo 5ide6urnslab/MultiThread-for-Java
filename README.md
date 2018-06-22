@@ -1,25 +1,19 @@
 # MultiThread for Java
 This repository is Technique sample that is Multi Thread for Java. This sample is made by Proce55ing, but you may use this technique by Eclipse for Java.  
 
+### Period Thread
+This application is a Fixed Cycle Thread.
+
 ## Installation
-(1) To use the above library, first you need to download and install (Arduino 1.8.3)
-https://www.arduino.cc/en/Guide/HomePage
+(1) To use the above application, first you need to download and install (Proce55ing)
+https://processing.org/download/
 
-(2) next you need to download and install (Teensyduino)
-https://www.pjrc.com/teensy/td_download.html
-
-(3) To get a copy of the repository you can download the source from  
-https://github.com/5ide6urnslab/MCP4922
-
-(4) The addon should sit in **/Arduino/libraries/** .
+(2) To get a copy of the repository you can download the source from  
+https://github.com/5ide6urnslab/MultiThread-for-Java.git
 
 ## Running the Example Project
-An example project is provided in the **/example/** folder.
+An example project is provided in your Proce55ing folder.
 <br>
-
-## Reference
-(1) MCP4922 Datasheet  
-http://ww1.microchip.com/downloads/en/DeviceDoc/22250A.pdf
 
 ## License
 ##### About this manual and image files.
