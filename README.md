@@ -13,7 +13,8 @@ An example project is provided in your Proce55ing folder.
 <br>
 
 (1) Period Thread  : This example is a Fixed Cycle Thread.  <br>
-(2) Period Threads : This example is Fixed Cycle Threads.
+(2) Period Threads : This example is Fixed Cycle Threads.   <br>
+(3) restartThread  : This example is stop Thread and restarted it.
 
 ## License
 ##### About this manual and image files.
