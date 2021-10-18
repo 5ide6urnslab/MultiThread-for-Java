@@ -20,8 +20,5 @@ An example project is provided in your Proce55ing folder.
 ##### About this manual and image files.
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />5ide6urns lab is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
-##### About this software.
-Released under the MIT license. http://opensource.org/licenses/mit-license.php
-
 ## Credit
 Software:   [Show Kawabata](http://www.dum6sen5e.com) (5ide6urns lab)  
